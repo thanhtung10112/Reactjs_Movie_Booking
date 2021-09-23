@@ -1,0 +1,20 @@
+.tabs_filmDetail{
+    button{
+        &:focus{
+            outline: none;
+        }
+    }
+}
+#time-to-watch{
+    .nav{
+        .nav-link{
+            &.active{
+                background-color: $color-red-3;
+            }
+            img{
+                margin-right: $mg-1;
+            }
+            font-weight: $fw-bold;
+        }
+    }
+}

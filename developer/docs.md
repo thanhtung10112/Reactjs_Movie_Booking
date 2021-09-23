@@ -1,0 +1,6 @@
++ [ReactJS.org](https://reactjs.org/)
++ [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
++ [Redux DevTools](https://github.com/zalmoxisus/redux-devtools-extension)
++ [SaggerAPI](https://movie0706.cybersoft.edu.vn/swagger/index.html?fbclid=IwAR1EVh7yO0P9oPP9asbf4edYLQRJeW6xMLpKOPQtSp2wQwSLV3GomBJhi_U)
++ [Jest - react - Enzyme](https://www.npmjs.com/package/jest-dom)
++ (Đang phát triển)
